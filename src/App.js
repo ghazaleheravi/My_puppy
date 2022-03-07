@@ -7,7 +7,6 @@ import Home from './components/Home';
 import Adoption from'./components/Adoption';
 import Nav from './components/Nav';
 import Details from './components/Details';
-import Footer from "./components/Footer";
   
 function App() {
   

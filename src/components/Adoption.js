@@ -62,8 +62,7 @@ function Adopt() {
                         animal.photos[0]['medium'],
                         animal.photos[0]['large']
                       }
-                
-                /> 
+              /> 
             : <p>There is no image available.</p>
           }
         

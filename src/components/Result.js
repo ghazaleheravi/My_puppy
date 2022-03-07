@@ -27,7 +27,7 @@ export default function Result(props) {
           search:`${props.id}`
         }
         }>
-          <img src={image} className='img_result' width='340' height='250' />
+          <img src={image} className='img_result' width='340' height='250' alt="dog"/>
           <button type='button' onClick={handleClick} className='btn_result'>
             <p id="par_btn">About {props.data.name}</p>
           </button>
